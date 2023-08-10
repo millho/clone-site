@@ -5,7 +5,7 @@
 }
 
 .section-setup {
-    height: 20vh;
+    height: 33vh;
 }
 
 .foot-setup {
@@ -14,4 +14,8 @@
 
 .foot-img {
     background-image: url("https://images.unsplash.com/photo-1478860409698-8707f313ee8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bWFwc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+.services:hover {
+    box-shadow: 0px 0px 50px rgb(38, 38, 181);
 }
